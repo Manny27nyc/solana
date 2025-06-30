@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @brief Example C-based BPF program that moves funds from one account to
  * another

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #pragma once
 /**
  * @brief Solana secp256k1 system call

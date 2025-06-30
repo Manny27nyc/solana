@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type {Buffer} from 'buffer';
 
 import {Connection} from '../connection';

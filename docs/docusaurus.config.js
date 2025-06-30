@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const math = require("remark-math");
 const katex = require("rehype-katex");
 module.exports = {

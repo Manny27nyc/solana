@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const endpoint = {
   http: {
     devnet: 'http://api.devnet.solana.com',

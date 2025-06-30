@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {expect} from 'chai';
 
 import {AgentManager, DESTROY_TIMEOUT_MS} from '../src/agent-manager';

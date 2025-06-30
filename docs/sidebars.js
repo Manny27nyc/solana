@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = {
   docs: {
     About: ["introduction", "terminology", "history"],

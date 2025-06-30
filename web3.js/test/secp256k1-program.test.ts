@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Buffer} from 'buffer';
 import {keccak_256} from 'js-sha3';
 import {privateKeyVerify, ecdsaSign, publicKeyCreate} from 'secp256k1';

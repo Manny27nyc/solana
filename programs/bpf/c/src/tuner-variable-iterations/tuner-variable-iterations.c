@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @brief Compute budget tuner program.  Spins in a loop for the specified number of iterations
  * (or for UINT64_MAX iterations if 0 is specified for the number of iterations), in order to consume

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python3
 #
 # Adjusts the testnet monitor dashboard for the specified release channel

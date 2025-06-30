@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BN from 'bn.js';
 import {Buffer} from 'buffer';
 import {expect, use} from 'chai';

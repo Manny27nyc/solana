@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { programs } from "@metaplex/js";
 import { Connection } from "@solana/web3.js";
 

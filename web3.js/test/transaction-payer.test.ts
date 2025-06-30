@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import base58 from 'bs58';
 import {expect} from 'chai';
 

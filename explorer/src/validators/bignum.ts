@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { coerce, instance, string } from "superstruct";
 import BN from "bn.js";
 

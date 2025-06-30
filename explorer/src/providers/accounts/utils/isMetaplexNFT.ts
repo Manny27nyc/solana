@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MintAccountInfo } from "validators/accounts/token";
 import { ProgramData } from "..";
 

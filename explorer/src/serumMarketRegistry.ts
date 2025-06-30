@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Cluster } from "providers/cluster";
 
 const MARKET_REGISTRY: { [key: string]: string } = {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function promiseTimeout<T>(
   promise: Promise<T>,
   timeoutMs: number,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @brief Example C based BPF program that performs operations
  * on floating point values.  The test fails if floating point

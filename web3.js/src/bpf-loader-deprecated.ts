@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {PublicKey} from './publickey';
 
 export const BPF_LOADER_DEPRECATED_PROGRAM_ID = new PublicKey(

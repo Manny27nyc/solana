@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TransactionError } from "@solana/web3.js";
 import { Cluster } from "providers/cluster";
 import { programLabel } from "utils/tx";

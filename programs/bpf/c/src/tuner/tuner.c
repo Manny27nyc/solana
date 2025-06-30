@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @brief Compute budget tuner program.  Spins in a loop consuming the entire
  * budget, used by the tuner bench test to tune the compute budget costs.

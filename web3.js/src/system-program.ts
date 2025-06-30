@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as BufferLayout from '@solana/buffer-layout';
 
 import {encodeData, decodeData, InstructionType} from './instruction';

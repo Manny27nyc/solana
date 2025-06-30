@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <solana_sdk.h>
 
 struct foo {const uint8_t *input;};

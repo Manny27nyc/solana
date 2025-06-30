@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {PublicKey} from './publickey';
 
 export const SYSVAR_CLOCK_PUBKEY = new PublicKey(

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function makeWebsocketUrl(endpoint: string) {
   let url = new URL(endpoint);
   const useHttps = url.protocol === 'https:';

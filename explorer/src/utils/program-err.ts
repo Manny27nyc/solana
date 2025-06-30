@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TransactionError } from "@solana/web3.js";
 
 const instructionErrorMessage: Map<string, string> = new Map([

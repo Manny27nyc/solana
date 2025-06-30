@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable @typescript-eslint/no-redeclare */
 
 import { Infer, number, nullable, enums, type } from "superstruct";

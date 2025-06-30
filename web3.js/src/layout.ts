@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Buffer} from 'buffer';
 import * as BufferLayout from '@solana/buffer-layout';
 

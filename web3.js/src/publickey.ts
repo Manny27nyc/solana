@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BN from 'bn.js';
 import bs58 from 'bs58';
 import {Buffer} from 'buffer';

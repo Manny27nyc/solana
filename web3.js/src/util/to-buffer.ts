@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Buffer} from 'buffer';
 
 export const toBuffer = (arr: Buffer | Uint8Array | Array<number>): Buffer => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './account';
 export * from './blockhash';
 export * from './bpf-loader-deprecated';

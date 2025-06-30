@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const MINIMUM_SLOT_PER_EPOCH = 32;
 
 // Returns the number of trailing zeros in the binary representation of self.

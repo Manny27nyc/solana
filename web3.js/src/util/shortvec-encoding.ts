@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function decodeLength(bytes: Array<number>): number {
   let len = 0;
   let size = 0;

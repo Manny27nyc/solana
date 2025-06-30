@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Client as LiveClient} from 'rpc-websockets';
 import {expect} from 'chai';
 import {createSandbox} from 'sinon';

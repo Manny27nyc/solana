@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Connection} from '../connection';
 import {Transaction} from '../transaction';
 import type {ConfirmOptions} from '../connection';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { expect } from "chai";
 import { lamportsToSol, LAMPORTS_PER_SOL } from "utils";
 import BN from "bn.js";
